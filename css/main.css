@@ -356,7 +356,7 @@ ul {
   width: 40px;
   border-radius: 6px;
   margin-left: 20px;
-  border: 2px solid #f9ab00;
+  border: 2px solid #00f9cb;
 }
 .header__sign-in span {
   display: none;
@@ -1335,7 +1335,7 @@ ul {
 .card__category a {
   font-size: 14px;
   position: relative;
-  color: orangered;
+  color: rgb(113, 247, 247);
   margin-right: 10px;
   opacity: 0.8;
 }
